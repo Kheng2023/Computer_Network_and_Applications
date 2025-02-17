@@ -10,6 +10,6 @@ This repository contains assignments for the **Computer Network and Applications
 - Implemented **Alternating Bit Protocol (ABP)** for reliable data transfer over an unreliable network.  
 - Ensured **error detection** and **acknowledgment mechanisms**.  
 
-## Assignment 3: Shortest Path in a Network using Dijkstra’s Algorithm  
+## Assignment 3: Shortest Path in a Network using Dijkstra’s Algorithm (DijkstraNlogN.py)
 - Implemented **Dijkstra’s Algorithm** using a **heap** to find the shortest path between routers.  
 - Optimized network routing by minimizing path costs.  
